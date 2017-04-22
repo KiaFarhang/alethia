@@ -248,6 +248,7 @@ div#tour-container {
         justify-content: space-between;
         margin-top: 5rem;
         div.front-square {
+            flex-basis: 30%; 
             margin: 1rem;
             text-align: center;
         }
